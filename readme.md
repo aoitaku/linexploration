@@ -29,7 +29,7 @@
 
 で起動します。
 
-実行にはRuby 2.0以上と[DXRuby（ver.1.5.7dev以上）](http://dxruby.sourceforge.jp/cgi-bin/hiki.cgi?%A5%D5%A5%A1%A5%A4%A5%EB%C3%D6%A4%AD%BE%EC)が必要です。
+実行にはRuby 2.0以上と[DXRuby（ver.1.4.0以上で動作確認）](http://dxruby.sourceforge.jp/cgi-bin/hiki.cgi?%A5%D5%A5%A1%A5%A4%A5%EB%C3%D6%A4%AD%BE%EC)が必要です。
 
 ## 操作説明
 

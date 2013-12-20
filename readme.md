@@ -1,10 +1,10 @@
 # LINEXPLORATION
 
-|         |                        |
-|---------|------------------------|
-| URL     | http://aotak.me/linexp |
-| Author  | aoitaku                |
-| Version | 0.0.8                  |
+|         |                                         |
+|---------|-----------------------------------------|
+| URL     | http://aotak.me/linexp (まだありません) |
+| Author  | aoitaku                                 |
+| Version | 0.0.8                                   |
 
 
 ## これは何？
